@@ -48,6 +48,10 @@
    - CNNs have been successful in facial recognition applications, recognizing and verifying faces in images or videos.
 
 
+
+
+### Sample Code
+
 #### 1. Importing Required Packages
 ```python
 import numpy as np
